@@ -8,6 +8,10 @@
         {
             "id" : "Core",
             "minVersion" : "1.0.0"
+        },
+        {
+            "id" : "Inventory",
+            "minVersion" : "1.0.0"
         }
     ]
 }
